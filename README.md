@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IdVbI
-- 👀 I’m interested in studing Algorithm 
-- 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in iOS  
+- 🌱 I’m currently learning Swift
 - 📫 You can reach me by mae03087@naver.com
 
 <!---
